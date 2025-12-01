@@ -1,4 +1,12 @@
 # priya1
 This is my first git repositrory
 <br>
-authoe -priyanka 
+this is  -priyanka (hii this is git class)
+<br>
+add some datacle
+
+
+
+
+
+
